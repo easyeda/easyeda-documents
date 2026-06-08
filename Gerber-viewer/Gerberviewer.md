@@ -1,7 +1,7 @@
 
 # Free online RS-274X (Gerber viewer) and Excellon  Viewer 
  
- EasyEDA **Gerber Viewer** is a viewer for Gerber RS-274X files, Excellon drill files online, 
+ [**EasyEDA Gerber Viewer**](https://gerber-viewer.easyeda.com) is a viewer for Gerber RS-274X files, Excellon drill files online, 
  After you upload your gerber file, we will render it as images including a top side and a bottom side photo view. At the same time, EasyEDA runs a simple Design For Manufacture (DFM) check, from which you can see the board size, hole and track sizes and clearances of the various PCB objects such as tracks and pads.
 
   ![](images/Gerber-viewer-screen.png) 
