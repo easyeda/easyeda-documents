@@ -1,3 +1,6 @@
+# NOTICE
+**Note: This document is a tutorial for easyeda std, which is already very outdated and backward. It is currently only for archival purposes. For the latest version, please visit [https://docs.easyeda.com](https://docs.easyeda.com)**
+
 #Great tools must have awesome documents.
 
 ## Online Tutorial
