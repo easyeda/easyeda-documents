@@ -112,14 +112,15 @@ A completed PCB design should have no DRC errors;
 
 29) Download and check items (6) to (24) in the Gerbers in either the EasyEDA Gerber Viewer:
 
-[https://gerber-viewer.easyeda.com/](https://gerber-viewer.easyeda.com/)
+1. [https://gerber-viewer.easyeda.com/](https://gerber-viewer.easyeda.com/)
+2. [https://jlcdfm.com/](https://jlcdfm.com/)
 
 or using a 3rd party Gerber viewer such as the free and open source gerbv:
 
-[http://gerbv.sf.net/](http://gerbv.sf.net/)  
+[https://online-gerber-viewer.com/](https://online-gerber-viewer.com/)
+[https://gerbv.sourceforge.net/](https://gerbv.sourceforge.net/)  
 [http://flatcam.org/](http://flatcam.org/)  
-[http://kicad.org/](http://kicad.org/)  
-[http://www.gerber-viewer.com/](http://www.gerber-viewer.com/)
+
 
 30) Check the order options such as number of boards, copper finish, silkscreen colour, solder mask colour, panellisation, any solder paste mask requirement and so on;
 
